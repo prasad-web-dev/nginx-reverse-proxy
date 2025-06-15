@@ -1,4 +1,4 @@
-Reverser# Nginx Reverse Proxy Setup with Docker Compose
+ # Nginx Reverse Proxy Setup with Docker Compose
 
 ## Overview
 This project sets up a reverse proxy using Nginx and Docker Compose. It hosts two simple Nginx websites (`site1` and `site2`) behind a reverse proxy.
